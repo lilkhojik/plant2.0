@@ -1,0 +1,721 @@
+@media (max-width:1370px) {
+    .trees__img {
+        max-width: 550px;
+        width: 100%;
+    }
+
+    .trees__title {
+        font-size: 65px;
+    }
+
+    .trees__titlee {
+        font-size: 60px;
+        width: 600px;
+    }
+
+    .trees__text {
+        font-size: 15px;
+    }
+
+}
+
+@media (max-width:1330px) {
+    .get__card {
+        width: 600px;
+    }
+
+    .box__info {
+        width: 600px;
+    }
+
+    .tor {
+        margin-top: 80px;
+    }
+
+    .tor__img {
+        margin-top: 10px;
+        max-width: 600px;
+        width: 100%;
+    }
+
+    .tor__text {
+        font-size: 16px;
+        text-align: center;
+        width: 500px;
+    }
+
+    .uch {
+        margin-top: 125px;
+    }
+
+    .list__img {
+        width: 45px;
+    }
+
+    .uch__text {
+        font-size: 16px;
+        width: 550px;
+    }
+
+    .uch__img {
+        max-width: 550px;
+        width: 100%;
+    }
+
+    .uch__title {
+        font-size: 50px;
+        line-height: 120%;
+    }
+
+    .plant__title {
+        font-size: 50px;
+        margin-bottom: 45px;
+    }
+
+    .plant__img {
+        max-width: 550px;
+        width: 100%;
+    }
+
+    .plant__img1 {
+        max-width: 550px;
+        width: 100%;
+    }
+}
+
+@media (max-width:1260px) {
+    .get__card {
+        width: 550px;
+    }
+
+    .box__info {
+        width: 550px;
+    }
+}
+
+@media (max-width:1160px) {
+    .footer__title{
+        font-size: 16px;
+        line-height: 140%;
+        margin-bottom: 10px;
+    }
+    .footer__link{
+        font-size: 14px;
+        line-height: 120%;
+    }
+    .get {
+        margin-top: 80px;
+    }
+
+    .get__text {
+        font-size: 16px;
+        line-height: 140%;
+        margin-top: 30px;
+    }
+
+    .tor__item {
+        align-items: center;
+    }
+
+    .get__info {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .get__title {
+        margin-top: 30px;
+        width: max-content;
+        font-size: 45px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .box__info {
+        margin-top: 50px;
+    }
+
+    .uch__list:nth-of-type(1) {
+        margin-top: 50px;
+    }
+
+    .tor__box {
+        align-items: center;
+    }
+
+    .uch__list {
+        /* margin-left: 60px; */
+    }
+
+    .tor__text {
+        font-size: 14px;
+        width: 400px;
+    }
+
+    .uch__item {
+        align-items: center;
+    }
+
+    .list__img {
+        width: 30px;
+    }
+
+    .uch__text {
+        font-size: 14px;
+        margin-left: 8px;
+        width: 400px;
+    }
+
+    .tor__title {
+        font-size: 40px;
+    }
+
+    .tor {
+        margin-top: 50px;
+    }
+
+    .tor__info {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .tor__img {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 500px;
+        width: 100%;
+    }
+
+    .tor__title {
+        text-align: center;
+        font-size: 50px;
+    }
+
+    .uch__title {
+        text-align: center;
+        font-size: 45px;
+        margin: 0;
+    }
+
+    .uch__text {
+        margin-left: 10px;
+        width: 350px;
+    }
+
+    .uch {
+        margin-top: 50px;
+    }
+
+    .uch__img {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+        max-width: 400px;
+        width: 100%;
+    }
+
+    .uch__info {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .plant__box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .plant__item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .plant__title {
+        font-size: 40px;
+        line-height: 120%;
+        text-align: center;
+    }
+
+    .plant__item {
+        margin-top: 5px;
+    }
+
+    .plant {
+        margin-top: 100px;
+    }
+
+    .plant__info {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .trees__info {
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .trees__item {
+        margin-top: 10px;
+        text-align: center;
+        margin: 0;
+    }
+
+    .tres__text {
+        margin-bottom: 40px;
+        width: 450px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .trees__titlee {
+        margin-left: auto;
+        margin-right: auto;
+        width: 550px;
+    }
+
+    .tres {
+        margin-top: 60px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .nav__info {
+        margin-top: 40px;
+    }
+
+    .trees__info {
+        margin-top: 35px;
+
+    }
+
+    .trees__img {
+        max-width: 500px;
+        width: 100%;
+    }
+
+    .trees__title {
+        font-size: 60px;
+    }
+
+    .trees__titlee {
+        font-size: 55px;
+        width: 500px;
+    }
+
+    .trees__text {
+        font-size: 12px;
+    }
+}
+
+@media (max-width:800px) {
+    .footer__img{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .footer{
+        margin-top: 100px;
+    }
+    .box__link{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .box__info {
+        margin-bottom: 45px;
+    }
+
+    .get {
+        margin-top: 50px;
+    }
+
+    .get__text {
+        font-size: 14px;
+        line-height: 140%;
+        margin-top: 20px;
+    }
+
+    .box__info {
+        margin-top: 40px;
+    }
+
+    .get__title {
+        margin-top: 20px;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .uch__list:nth-of-type(1) {
+        margin-top: 40px;
+    }
+
+    .uch__list {
+        /* margin-left: 120px; */
+    }
+
+    .tor__text {
+        font-size: 12px;
+        width: 350px;
+    }
+
+    .list__img {
+        width: 25px;
+    }
+
+    .uch__text {
+        font-size: 12px;
+        margin-left: 5px;
+    }
+
+    .tor__title {
+        font-size: 35px;
+    }
+
+    .uch__title {
+        font-size: 35px;
+    }
+
+    .tor__img {
+        max-width: 450px;
+        width: 100%;
+    }
+
+    .tor {
+        margin-top: 40px;
+    }
+
+    .plant {
+        margin-top: 50px;
+    }
+
+    .plant__title {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+
+    .plant__img {
+        max-width: 450px;
+        width: 100%;
+    }
+
+    .plant__img1 {
+        max-width: 450px;
+        width: 100%;
+    }
+
+    .plant__text {
+        font-size: 15px;
+        width: 400px;
+        margin: 20px 0;
+        text-align: center;
+    }
+
+    .nav__info {
+        margin-top: 30px;
+    }
+
+    .trees__link {
+        font-size: 30px;
+    }
+
+    .tres {
+        margin-top: 35px;
+    }
+
+    .trees__info {
+        margin-top: 20px;
+    }
+
+    .trees__img {
+        max-width: 350px;
+        width: 100%;
+    }
+
+    .trees__title {
+        font-size: 45px;
+    }
+
+    .trees__titlee {
+        font-size: 35px;
+        width: 350px;
+    }
+
+    .tres__text {
+        font-size: 10px;
+    }
+
+    .link {
+        padding: 15px 20px;
+        font-size: 12px;
+        line-height: 100%;
+    }
+
+    .nav__link span {
+        font-size: 15px;
+        margin-left: 35px;
+    }
+}
+
+@media (max-width:650px) {
+    .footer__title{
+        font-size: 12px;
+        line-height: 120%;
+    }
+    .footer{
+        margin-top: 50px;
+    }
+    .footer__info{
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer__img{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .footer__item{
+        margin-top: 20px;
+    }
+}
+@media (max-width:500px) {
+    .get__text{
+        width: 380px;
+        text-align: center;
+    }
+    .get__card,
+    .box__info{
+        flex-direction: column;
+        max-width: 350px;
+        width: 100%;
+        height: max-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .box__info {
+        margin-bottom: 30px;
+    }
+
+    .get {
+        margin-top: 30px;
+    }
+
+    .box__info {
+        margin-top: 30px;
+    }
+
+    .get__title {
+        margin-top: 10px;
+        font-size: 35px;
+    }
+
+    .uch__list:nth-of-type(1) {
+        margin-top: 30px;
+    }
+
+    .uch__list {
+        /* margin-left: 150px; */
+    }
+
+    .tor__text {
+        font-size: 10px;
+        width: 300px;
+    }
+
+    .list__img {
+        width: 20px;
+    }
+
+    .uch__text {
+        font-size: 10px;
+    }
+
+    .tor__title {
+        font-size: 25px;
+    }
+
+    .uch__title {
+        font-size: 25px;
+    }
+
+    .tor__img {
+        max-width: 400px;
+        width: 100%;
+    }
+
+    .plant__title {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+
+    .plant__text {
+        font-size: 12px;
+        width: 450px;
+    }
+
+    .trees__link {
+        font-size: 25px;
+    }
+
+    .nav__info {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    .nav__info .link {
+        margin-top: 10px;
+    }
+
+    .nav__link span {
+        text-align: center;
+        margin-left: 10px;
+    }
+}
+
+@media (max-width:412px) {
+    .footer__info{
+        flex-direction: column;
+    }
+    .footer{
+        margin-top: 30px;
+    }
+    .get__title{
+        font-size: 25px;
+        line-height: 120%;
+    }
+    .footer__title{
+        font-size: 14px;
+    }
+    .footer__text{
+        font-size: 10px;
+        line-height: 120%;
+    }
+    .get__card,
+    .box__info{
+        max-width: 300px;
+        width: 100%;
+    }
+    .get__text{
+        width: 300px;
+    }
+    .catd__title{
+        font-size: 25px;
+        line-height: 140%;
+        text-align: center;
+    }
+    .card__text{
+        font-size: 12px;
+        line-height: 140%;
+        margin-bottom: 15px;
+        width: 250px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .card__cost{
+        font-size: 18px;
+        line-height: 140%;
+        text-align: center;
+        padding-bottom: 5px;
+    }
+    .box__info {
+        margin-bottom: 20px;
+    }
+
+    .get {
+        margin-top: 20px;
+    }
+
+    .get__text {
+        font-size: 12px;
+        line-height: 120%;
+        margin-top: 15px;
+    }
+
+    .box__info {
+        margin-top: 20px;
+    }
+
+    .uch__list:nth-of-type(1) {
+        margin-top: 20px;
+    }
+
+    .uch__list {}
+
+    .uch__text {
+        font-size: 10px;
+        width: 350px;
+    }
+
+    .list__img {
+        width: 15px;
+    }
+
+    .tor__title {
+        font-size: 25px;
+    }
+
+    .uch__title {
+        font-size: 20px;
+    }
+
+    .tor__img {
+        max-width: 350px;
+        width: 100%;
+    }
+
+    .plant__title {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .plant__img {
+        max-width: 350px;
+        width: 100%;
+    }
+
+    .plant__img1 {
+        max-width: 350px;
+        width: 100%;
+    }
+
+    .plant__text {
+        font-size: 10px;
+        width: 350px;
+    }
+
+    .trees__link {
+        font-size: 20px;
+    }
+
+    .trees__title {
+        font-size: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .trees__titlee {
+        font-size: 25px;
+        width: 250px;
+    }
+
+    .tres__text {
+        font-size: 8px;
+        width: 300px;
+    }
+}
+@media(max-width:350px){
+    .footer__item{
+        flex-direction: column;
+    }
+    .footer__box{
+        margin-top: 10px;
+    }
+    .footerbox{
+        margin-top: 10px;
+    }
+    .footer{
+        height: max-content;
+    }
+}

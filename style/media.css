@@ -20,6 +20,9 @@
 }
 
 @media (max-width:1330px) {
+    .footer__img{
+        margin-left: 150px;
+    }
     .get__card {
         width: 600px;
     }
@@ -33,6 +36,11 @@
     }
 
     .tor__img {
+        margin-top: 10px;
+        max-width: 600px;
+        width: 100%;
+    }
+    .tor__img1 {
         margin-top: 10px;
         max-width: 600px;
         width: 100%;
@@ -84,6 +92,9 @@
 }
 
 @media (max-width:1260px) {
+    .footer__img{
+        margin-left: 120px;
+    }
     .get__card {
         width: 550px;
     }
@@ -91,9 +102,15 @@
     .box__info {
         width: 550px;
     }
+    .footer__box{
+        margin-right: 120px;
+    }
 }
 
 @media (max-width:1160px) {
+    .footer__img{
+        margin-left: 100px;
+    }
     .footer__title{
         font-size: 16px;
         line-height: 140%;
@@ -179,6 +196,12 @@
     }
 
     .tor__img {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 500px;
+        width: 100%;
+    }
+    .tor__img1 {
         margin-left: auto;
         margin-right: auto;
         max-width: 500px;
@@ -310,6 +333,11 @@
     }
 }
 
+@media (max-width:870px) {
+    .footer__box{
+        margin-right: 80px;
+    }
+}
 @media (max-width:800px) {
     .footer__img{
         margin-left: auto;
@@ -336,6 +364,10 @@
         font-size: 14px;
         line-height: 140%;
         margin-top: 20px;
+        width: 450px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .box__info {
@@ -379,6 +411,10 @@
     }
 
     .tor__img {
+        max-width: 450px;
+        width: 100%;
+    }
+    .tor__img1 {
         max-width: 450px;
         width: 100%;
     }
@@ -459,7 +495,23 @@
     }
 }
 
+@media (max-width:680px) {
+    .plant__img{
+        max-width: 400px;
+        width: 100%;
+    }
+    .footer__title{
+        font-size: 14px;
+        line-height: 120%;
+    }
+    .footer__box{
+        margin-right: 15px;
+    }
+}
 @media (max-width:650px) {
+    .footer__info{
+        margin-top: 20px;
+    }
     .footer__title{
         font-size: 12px;
         line-height: 120%;
@@ -481,6 +533,22 @@
     }
 }
 @media (max-width:500px) {
+    .plant__img{
+        max-width: 350px;
+        width: 100%;
+    }
+    .uch__img{
+        max-width: 350px;
+        width: 100%;
+    }
+    .tor__img {
+        max-width: 350px;
+        width: 100%;
+    }
+    .tor__img1{
+        max-width: 350px;
+        width: 100%;
+    }
     .get__text{
         width: 380px;
         text-align: center;
@@ -539,12 +607,6 @@
     .uch__title {
         font-size: 25px;
     }
-
-    .tor__img {
-        max-width: 400px;
-        width: 100%;
-    }
-
     .plant__title {
         font-size: 25px;
         margin-bottom: 20px;
@@ -645,7 +707,7 @@
 
     .uch__text {
         font-size: 10px;
-        width: 350px;
+        width: 250px;
     }
 
     .list__img {
@@ -659,12 +721,6 @@
     .uch__title {
         font-size: 20px;
     }
-
-    .tor__img {
-        max-width: 350px;
-        width: 100%;
-    }
-
     .plant__title {
         font-size: 20px;
         margin-bottom: 10px;
